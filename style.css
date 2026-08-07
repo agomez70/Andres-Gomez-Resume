@@ -1,0 +1,27 @@
+body {
+    background-color: #FCF2E5
+}
+
+.titles {
+    text-align: center;
+    border-radius: 20px;
+    background-color: #EC5B38;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 20px;
+    background-color: #A8A492;
+}
+
+.center {
+    text-align: center;
+}
+
+.lowfont {
+    font-weight: normal;
+}
+
+.highfont {
+    font-weight: 900;
+}
