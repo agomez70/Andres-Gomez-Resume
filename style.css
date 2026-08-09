@@ -41,7 +41,6 @@ h2 {
 }
 
 #imgdiv {
-    /* border: 10px solid black; */
     padding: 10px;
     display: flex;
     align-items: center;
@@ -52,10 +51,30 @@ h2 {
     color: white;
     background-color: #524646;
     text-align: center;
-    width: 300px;
+    width: 25%;
     border-radius: 20px;
     padding: 5px;
-    margin: 0 auto;
     margin-bottom: 5px;
+    margin-left: 38%;
 }
+
+.button:hover {
+    background-color: #7d6c68;
+}
+
+.button-home {
+    color: white;
+    background-color: #EC5B38;
+    text-align: center;
+    width: 10%;
+    border-radius: 20px;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 85%;
+}
+
+.button-home:hover {
+    background-color: #ed7355;
+}
+
 
